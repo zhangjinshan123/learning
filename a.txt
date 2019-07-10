@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yyyyyyyyyfgbhjkbjkabkjbjk
+=======
+kbfjbfjadbfjbadfjbadjk
+>>>>>>> github/new_FILE
